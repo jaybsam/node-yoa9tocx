@@ -5,8 +5,8 @@
       "moduleResolution": "Node",
       "strict": true,
       "esModuleInterop": true,
-      "allowSyntheticDefaultImports": true,
-      "types": ["node"]
+      "skipLibCheck": true,
+      "types": ["node", "express"]
     }
   }
   
